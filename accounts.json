@@ -1,0 +1,719 @@
+[
+  {
+    "email": "yoyoca3474@ibtrades.com",
+    "password": "Owen2021!!!",
+    "num": 1,
+    "won": [
+      [
+        {
+          "bidState": {
+            "isActiveUserWinning": true,
+            "projectId": 18436634,
+            "publicMaxBid": {
+              "amount": 21,
+              "timestamp": {
+                "__type": "Date",
+                "value": "2023-10-12T01:05:56.458Z"
+              }
+            },
+            "userMaxBid": {
+              "amount": 24,
+              "timestamp": {
+                "__type": "Date",
+                "value": "2023-10-12T01:05:56.458Z"
+              }
+            },
+            "userNextMinBid": 25
+          },
+          "dateClosed": {
+            "__type": "Date",
+            "value": "2023-10-12T01:06:00.000Z"
+          },
+          "marketStatus": "sold",
+          "title": "VEVOR Voltage Converter Transformer,5000W Heavy Duty Step Up/Down Transformer ",
+          "wprice": 21,
+          "location": {
+            "address": "8928 E Ray Rd Suite 101",
+            "zipCode": 85212,
+            "offsite": false,
+            "pickupDetail": "",
+            "timezone": "America/Phoenix",
+            "city": "Mesa",
+            "name": "Mesa",
+            "state": "AZ"
+          },
+          "_count": {
+            "bids": 7,
+            "bidders": 3,
+            "watchlists": 3
+          },
+          "originType": "revalidate",
+          "bprice": 0,
+          "createdAt": {
+            "__type": "Date",
+            "value": "2023-10-10T21:50:56.961Z"
+          },
+          "dateAdded": {
+            "__type": "Date",
+            "value": "2023-10-11T05:36:35.715Z"
+          },
+          "id": 18436634,
+          "rprice": 1,
+          "sold": 1,
+          "sprice": 1,
+          "updatedAt": {
+            "__type": "Date",
+            "value": "2023-10-12T01:09:12.091Z"
+          },
+          "item": {
+            "assemblyType": {
+              "id": 2,
+              "description": "No"
+            },
+            "conditionType": {
+              "id": 5,
+              "description": "New"
+            },
+            "missingPartsType": {
+              "id": 6,
+              "description": "No"
+            },
+            "functionalType": {
+              "id": 1,
+              "description": "Yes"
+            },
+            "damageType": {
+              "id": 7,
+              "description": "None"
+            },
+            "packageType": {
+              "id": 5,
+              "description": "Yes"
+            },
+            "categoryType": {
+              "id": 4,
+              "description": "Clothing & Accessories"
+            },
+            "photos": [
+              {
+                "url": "https://m.media-amazon.com/images/I/716xnHyEIxL.jpg",
+                "name": "https://m.media-amazon.com/images/I/716xnHyEIxL.jpg",
+                "path": "https://m.media-amazon.com/images/I/716xnHyEIxL.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1017643406%2FtzfEnA-3wOkTQkzIjEp-s.jpg?alt=media&token=c78b67dc-9ea6-443a-a599-8dca0d118645",
+                "name": "tzfEnA-3wOkTQkzIjEp-s.jpg",
+                "fullPath": "processing-photos/1017643406/tzfEnA-3wOkTQkzIjEp-s.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1017643406%2FQt2T0CZe34-6Ns1cniTqp.jpg?alt=media&token=ae2d0aa4-881e-447a-9826-bac8c151259b",
+                "name": "Qt2T0CZe34-6Ns1cniTqp.jpg",
+                "fullPath": "processing-photos/1017643406/Qt2T0CZe34-6Ns1cniTqp.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1017643406%2FWg70GgR33uNeRdBVcqUAI.jpg?alt=media&token=b22ff909-0fa4-4007-a6b2-91a264183915",
+                "name": "Wg70GgR33uNeRdBVcqUAI.jpg",
+                "fullPath": "processing-photos/1017643406/Wg70GgR33uNeRdBVcqUAI.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1017643406%2Fp22E9ihSKRHUFvZ6nJVPd.jpg?alt=media&token=dca2f4b9-8037-412c-b940-2cfb4c117bbd",
+                "name": "p22E9ihSKRHUFvZ6nJVPd.jpg",
+                "fullPath": "processing-photos/1017643406/p22E9ihSKRHUFvZ6nJVPd.jpg"
+              }
+            ],
+            "inventoryNumber": "1017643406",
+            "retailPrice": 89,
+            "notes": null,
+            "starRating": 5,
+            "updatedAt": {
+              "__type": "Date",
+              "value": "2023-10-10T23:14:57.000Z"
+            }
+          },
+          "buyNow": {
+            "appointmentId": null,
+            "receiptId": null,
+            "returnId": null,
+            "status": "active"
+          }
+        },
+        "https://www.nellisauction.com/p/VEVOR-Voltage-Converter-Transformer-5000W-Heavy-Duty-Step-Up/18436634",
+        "yoyoca3474@ibtrades.com",
+        "27",
+        "2023-10-19T01:06:00.000Z",
+        "9145471572",
+        "32",
+        true
+      ],
+      [
+        {
+          "bidState": {
+            "isActiveUserWinning": true,
+            "projectId": 18433976,
+            "publicMaxBid": {
+              "amount": 18,
+              "timestamp": {
+                "__type": "Date",
+                "value": "2023-10-12T02:17:56.255Z"
+              }
+            },
+            "userMaxBid": {
+              "amount": 24,
+              "timestamp": {
+                "__type": "Date",
+                "value": "2023-10-12T02:17:56.255Z"
+              }
+            },
+            "userNextMinBid": 25
+          },
+          "dateClosed": {
+            "__type": "Date",
+            "value": "2023-10-12T02:18:00.000Z"
+          },
+          "marketStatus": "sold",
+          "title": "VEVOR Voltage Converter Transformer,3000W Heavy Duty Step Up/Down Transformer Converter(240V to 110V, 110V to 240V),2 US&1 UK&1 Universal Outlet with Circuit Break Protection,5V USB Port,CE Certified",
+          "wprice": 18,
+          "location": {
+            "address": "1402 S 40th Ave",
+            "zipCode": 85009,
+            "offsite": false,
+            "pickupDetail": "",
+            "timezone": "America/Phoenix",
+            "city": "Phoenix",
+            "name": "Phoenix",
+            "state": "AZ"
+          },
+          "_count": {
+            "bids": 11,
+            "bidders": 5,
+            "watchlists": 5
+          },
+          "originType": "revalidate",
+          "bprice": 0,
+          "createdAt": {
+            "__type": "Date",
+            "value": "2023-10-10T20:25:51.194Z"
+          },
+          "dateAdded": {
+            "__type": "Date",
+            "value": "2023-10-11T05:37:15.641Z"
+          },
+          "id": 18433976,
+          "rprice": 1,
+          "sold": 1,
+          "sprice": 1,
+          "updatedAt": {
+            "__type": "Date",
+            "value": "2023-10-12T02:25:44.032Z"
+          },
+          "item": {
+            "assemblyType": {
+              "id": 2,
+              "description": "No"
+            },
+            "conditionType": {
+              "id": 5,
+              "description": "New"
+            },
+            "missingPartsType": {
+              "id": 6,
+              "description": "No"
+            },
+            "functionalType": {
+              "id": 1,
+              "description": "Yes"
+            },
+            "damageType": {
+              "id": 7,
+              "description": "None"
+            },
+            "packageType": {
+              "id": 5,
+              "description": "Yes"
+            },
+            "categoryType": {
+              "id": 6,
+              "description": "General Merchandise"
+            },
+            "photos": [
+              {
+                "url": "https://m.media-amazon.com/images/I/71Zeak3VRNL.jpg",
+                "name": "https://m.media-amazon.com/images/I/71Zeak3VRNL.jpg",
+                "path": "https://m.media-amazon.com/images/I/71Zeak3VRNL.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1012790734%2FKB0kEFVSetDWbL9rjaA1k.jpg?alt=media&token=176ad89a-c91b-43a4-883a-903af5a5de7c",
+                "name": "KB0kEFVSetDWbL9rjaA1k.jpg",
+                "fullPath": "processing-photos/1012790734/KB0kEFVSetDWbL9rjaA1k.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1012790734%2F58_r6-qvaTTNnq3jZ_ZpU.jpg?alt=media&token=f3afdef0-1c39-4bb8-8198-31c2cb710e43",
+                "name": "58_r6-qvaTTNnq3jZ_ZpU.jpg",
+                "fullPath": "processing-photos/1012790734/58_r6-qvaTTNnq3jZ_ZpU.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1012790734%2FkS1hmPZ-0xyrBETCLcC1v.jpg?alt=media&token=d90b4fad-6201-4c89-a42e-94c02f287ef7",
+                "name": "kS1hmPZ-0xyrBETCLcC1v.jpg",
+                "fullPath": "processing-photos/1012790734/kS1hmPZ-0xyrBETCLcC1v.jpg"
+              }
+            ],
+            "inventoryNumber": "1012790734",
+            "retailPrice": 74.92,
+            "notes": "heavy",
+            "starRating": 5,
+            "updatedAt": {
+              "__type": "Date",
+              "value": "2023-10-10T21:12:25.000Z"
+            }
+          },
+          "buyNow": {
+            "appointmentId": null,
+            "receiptId": null,
+            "returnId": null,
+            "status": "active"
+          }
+        },
+        "https://www.nellisauction.com/p/VEVOR-Voltage-Converter-Transformer-3000W-Heavy-Duty-Step-Up/18433976",
+        "yoyoca3474@ibtrades.com",
+        "23",
+        "2023-10-19T02:18:00.000Z",
+        "9145471572",
+        "28",
+        true
+      ],
+      [
+        {
+          "bidState": {
+            "isActiveUserWinning": true,
+            "projectId": 18455634,
+            "publicMaxBid": {
+              "amount": 41,
+              "timestamp": {
+                "__type": "Date",
+                "value": "2023-10-13T04:26:57.720Z"
+              }
+            },
+            "userMaxBid": {
+              "amount": 47,
+              "timestamp": {
+                "__type": "Date",
+                "value": "2023-10-13T04:26:57.720Z"
+              }
+            },
+            "userNextMinBid": 48
+          },
+          "dateClosed": {
+            "__type": "Date",
+            "value": "2023-10-13T04:27:00.000Z"
+          },
+          "marketStatus": "sold",
+          "title": "PetSafe Automatic Tennis Ball Launcher – Interactive Dog Ball Thrower – Adjustable Range – Motion Sensor, Gray Automatic Ball Launcher",
+          "wprice": 41,
+          "location": {
+            "address": "8928 E Ray Rd Suite 101",
+            "zipCode": 85212,
+            "offsite": false,
+            "pickupDetail": "",
+            "timezone": "America/Phoenix",
+            "city": "Mesa",
+            "name": "Mesa",
+            "state": "AZ"
+          },
+          "_count": {
+            "bids": 30,
+            "bidders": 11,
+            "watchlists": 15
+          },
+          "originType": "revalidate",
+          "bprice": 0,
+          "createdAt": {
+            "__type": "Date",
+            "value": "2023-10-11T13:54:58.008Z"
+          },
+          "dateAdded": {
+            "__type": "Date",
+            "value": "2023-10-12T04:41:53.651Z"
+          },
+          "id": 18455634,
+          "rprice": 1,
+          "sold": 1,
+          "sprice": 1,
+          "updatedAt": {
+            "__type": "Date",
+            "value": "2023-10-13T04:27:10.896Z"
+          },
+          "item": {
+            "assemblyType": {
+              "id": 2,
+              "description": "No"
+            },
+            "conditionType": {
+              "id": 5,
+              "description": "New"
+            },
+            "missingPartsType": {
+              "id": 6,
+              "description": "No"
+            },
+            "functionalType": {
+              "id": 1,
+              "description": "Yes"
+            },
+            "damageType": {
+              "id": 7,
+              "description": "None"
+            },
+            "packageType": {
+              "id": 5,
+              "description": "Yes"
+            },
+            "categoryType": {
+              "id": 6,
+              "description": "General Merchandise"
+            },
+            "photos": [
+              {
+                "url": "https://m.media-amazon.com/images/I/61z7MbG2h-L.jpg",
+                "name": "https://m.media-amazon.com/images/I/61z7MbG2h-L.jpg",
+                "path": "https://m.media-amazon.com/images/I/61z7MbG2h-L.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1019160719%2FGHTCNukLfTdT-71qx_r5U.jpg?alt=media&token=0622a897-2357-4613-91ac-a25296ee90d9",
+                "name": "GHTCNukLfTdT-71qx_r5U.jpg",
+                "fullPath": "processing-photos/1019160719/GHTCNukLfTdT-71qx_r5U.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1019160719%2FrWnHgheo0NzbIcJJxobcw.jpg?alt=media&token=2813d54b-28cb-4abe-b520-bfdd588b02df",
+                "name": "rWnHgheo0NzbIcJJxobcw.jpg",
+                "fullPath": "processing-photos/1019160719/rWnHgheo0NzbIcJJxobcw.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1019160719%2F9_M_rW2T1_TLafgn5Yynb.jpg?alt=media&token=479dfea5-6afc-46d7-b942-87d6e34940a1",
+                "name": "9_M_rW2T1_TLafgn5Yynb.jpg",
+                "fullPath": "processing-photos/1019160719/9_M_rW2T1_TLafgn5Yynb.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1019160719%2FwyPCnqFxtEZV-7Hdx3G_m.jpg?alt=media&token=71e1a54e-b119-4fb5-82b9-9bc8ca0b4365",
+                "name": "wyPCnqFxtEZV-7Hdx3G_m.jpg",
+                "fullPath": "processing-photos/1019160719/wyPCnqFxtEZV-7Hdx3G_m.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1019160719%2F0Ry6Tv1tZVD6ljnfaMrKk.jpg?alt=media&token=c4e069cd-ccdb-49b7-9a82-31a4a0d01997",
+                "name": "0Ry6Tv1tZVD6ljnfaMrKk.jpg",
+                "fullPath": "processing-photos/1019160719/0Ry6Tv1tZVD6ljnfaMrKk.jpg"
+              }
+            ],
+            "inventoryNumber": "1019160719",
+            "retailPrice": 209,
+            "notes": null,
+            "starRating": 5,
+            "updatedAt": {
+              "__type": "Date",
+              "value": "2023-10-12T21:44:46.000Z"
+            }
+          },
+          "buyNow": {
+            "appointmentId": null,
+            "receiptId": null,
+            "returnId": null,
+            "status": "active"
+          }
+        },
+        "https://www.nellisauction.com/p/PetSafe-Automatic-Tennis-Ball-Launcher-Interactive-Dog-Ball/18455634",
+        "yoyoca3474@ibtrades.com",
+        "52",
+        "2023-10-20T04:27:00.000Z",
+        "9145471572",
+        "73",
+        false
+      ]
+    ],
+    "returns": 3,
+    "returned": [],
+    "running": [],
+    "cookies": "_hp2_id.1530949394=%7B%22userId%22%3A%224407162997647510%22%2C%22pageviewId%22%3A%221977078029878735%22%2C%22sessionId%22%3A%225756289987770515%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D; _gcl_au=1.1.589809437.1697004487.215015532.1697004506.1697004505; __adroll_fpc=d3fd403d0fe726ac89556255adf972dd-1697004488026; __ar_v4=%7CQSXTKNUYXNCWNFQAP2WPHK%3A20231010%3A1%7CXCWDW22TAVFONKHMZRMNJ5%3A20231010%3A1%7CEQNY52S66BH4VH6D3CIXQE%3A20231010%3A1; ap3c=IGUmO8fZ9FE7DmgIAGUmO8c6bljolejfOrKkRwK7DJHwW79ZDA; _fbp=fb.1.1697004487656.940045591; _ga_Z14LK6XFVL=GS1.1.1697004486.1.1.1697004510.36.0.0; _ttp=zTZXvhLZ_9ZtPDhk-8YpEKslW3T; _tt_enable_cookie=1; __navigation=eyJhdXRoUmVkaXJlY3QiOiIvIn0%3D.%2F%2FDloNKWkzcXKnazbtrGHl0vHeuuY%2FiSIu%2Bz%2FuNkiNM; _rdt_uuid=1697004487309.593d0e00-fc38-4d33-99c9-3f850f0dfbf0; _ga=GA1.1.677431987.1697004487; clientside-cookie=abd18b38172f162ea12fc9682caae11ea016d83e7e099694bd71534134ae8a57a06df735b5f6ec371524117d0f82ba015ad13b6ae8f35599488a47b2003d205a5ea5cc202b0feb18e30d6f34377f1a95665c3ab2413e1136c00b2a2104b9a07bc1fa893d3e6307302bde868df9817cfde56c9d5037c35588ff4433293f6fe0f2f47dccf2d10733339257995b600f9ebf8162250598021f960bd59f; _hp2_ses_props.1530949394=%7B%22ts%22%3A1697004486227%2C%22d%22%3A%22www.nellisauction.com%22%2C%22h%22%3A%22%2Flogin%22%7D; __session=eyJ1c2VySWQiOjUwMDc3NywidXNlckF1dGhUb2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNk5UQXdOemMzTENKcFlYUWlPakUyT1Rjd01EUTFNRFVzSW1WNGNDSTZNVFk1T1RVNU5qVXdOWDAucEI4STh2SHc2aUdsMG5RZXU2M0JpSlktSmoxMUQ3d29SMmdJMWprbjVqayJ9.3jLNYOMhylXNMcHWkMw01DAxrT2tHFetHULxTevvicA; ap3pages=1; _gid=GA1.2.1925551897.1697004487; _gat=1; __public=e30%3D.GcnILYfJMKY278FQnUClucHACfVuNPNrwhUHVleAYNQ",
+    "phoneNumber": "9145471572",
+    "firstName": "Hudson"
+  },
+  {
+    "email": "cisogam883@mugadget.com",
+    "password": "Owen2021!!!",
+    "num": 2,
+    "won": [],
+    "returns": 3,
+    "returned": [],
+    "running": [],
+    "cookies": "_hp2_id.1530949394=%7B%22userId%22%3A%222084449043924571%22%2C%22pageviewId%22%3A%228603088864682721%22%2C%22sessionId%22%3A%22408572107565153%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D; _gcl_au=1.1.216835048.1697004516.733748016.1697004532.1697004531; __adroll_fpc=8b0bf4487e59a2a3119f92d9976d377b-1697004516745; __ar_v4=%7CQSXTKNUYXNCWNFQAP2WPHK%3A20231010%3A1%7CXCWDW22TAVFONKHMZRMNJ5%3A20231010%3A1%7CEQNY52S66BH4VH6D3CIXQE%3A20231010%3A1; ap3c=IGUmO-TZ9FE7FacDAGUmO-TnzbQx3GUUfnlm0kJK7gYoA74SuA; _ga_Z14LK6XFVL=GS1.1.1697004515.1.1.1697004534.41.0.0; _ttp=9Woa5-5C7XwzuhXTIqwf4o5drWe; _tt_enable_cookie=1; _fbp=fb.1.1697004516223.711462068; __navigation=eyJhdXRoUmVkaXJlY3QiOiIvIn0%3D.%2F%2FDloNKWkzcXKnazbtrGHl0vHeuuY%2FiSIu%2Bz%2FuNkiNM; _rdt_uuid=1697004516196.7ad9ef04-dbf8-4620-98e1-ce6a7ee99968; _ga=GA1.1.1430661460.1697004516; __session=eyJ1c2VySWQiOjUwMDc4MCwidXNlckF1dGhUb2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNk5UQXdOemd3TENKcFlYUWlPakUyT1Rjd01EUTFNekVzSW1WNGNDSTZNVFk1T1RVNU5qVXpNWDAuMGNWUHg5VmN5OEphdHZrakRURGNWWjB5VjREa1AyaGNtTE1tUFNWZVZaZyJ9.4E4vq22ZNwk2JCmkPoOYRVqTqB4MQT5uVfImbCyl4ro; ap3pages=1; _gid=GA1.2.476940484.1697004516; clientside-cookie=a7e0a38ec11f66a4e895f1e0bc2c6c52d7d245588c23dced147a92cc72be0daa97df466ea0e1146e0171567bcd2d25058e6bf789e4ebc856d58ee0769fd1a1442c4446debdfd46e414dc0f0cb6efb02a389a7a68527eb9046fbd4fc35ef133c81b6cd7f9e38d371c406316b6ca8678ee70e599946a9334390c798f4e930fb6e4bb12aa3a64e2e2c8e645cda95229de770c93a3f146b3fd562671; _hp2_ses_props.1530949394=%7B%22ts%22%3A1697004513703%2C%22d%22%3A%22www.nellisauction.com%22%2C%22h%22%3A%22%2Flogin%22%7D; _gat=1; __public=e30%3D.GcnILYfJMKY278FQnUClucHACfVuNPNrwhUHVleAYNQ",
+    "phoneNumber": "8025429978",
+    "firstName": "Grace"
+  },
+  {
+    "email": "ciceti7528@locawin.com",
+    "password": "Owen2021!!!",
+    "num": 3,
+    "won": [
+      [
+        {
+          "bidState": {
+            "isActiveUserWinning": true,
+            "projectId": 18534003,
+            "publicMaxBid": {
+              "amount": 52,
+              "timestamp": {
+                "__type": "Date",
+                "value": "2023-10-15T02:52:57.428Z"
+              }
+            },
+            "userMaxBid": {
+              "amount": 72,
+              "timestamp": {
+                "__type": "Date",
+                "value": "2023-10-15T02:52:57.428Z"
+              }
+            },
+            "userNextMinBid": 73
+          },
+          "dateClosed": {
+            "__type": "Date",
+            "value": "2023-10-15T02:53:00.000Z"
+          },
+          "marketStatus": "sold",
+          "title": "CubiCubi Electric Standing Desk, 40 x 24 Inches Height Adjustable Sit Stand Desk, Ergonomic Home Office Computer Workstation, Light Rustic Brown 40 inches Light Rustic",
+          "wprice": 52,
+          "location": {
+            "address": "1402 S 40th Ave",
+            "zipCode": 85009,
+            "offsite": false,
+            "pickupDetail": "",
+            "timezone": "America/Phoenix",
+            "city": "Phoenix",
+            "name": "Phoenix",
+            "state": "AZ"
+          },
+          "_count": {
+            "bids": 26,
+            "bidders": 8,
+            "watchlists": 14
+          },
+          "originType": "revalidate",
+          "bprice": 0,
+          "createdAt": {
+            "__type": "Date",
+            "value": "2023-10-13T04:59:44.000Z"
+          },
+          "dateAdded": {
+            "__type": "Date",
+            "value": "2023-10-14T04:56:43.593Z"
+          },
+          "id": 18534003,
+          "rprice": 1,
+          "sold": 1,
+          "sprice": 1,
+          "updatedAt": {
+            "__type": "Date",
+            "value": "2023-10-15T02:53:16.542Z"
+          },
+          "item": {
+            "assemblyType": {
+              "id": 1,
+              "description": "Yes"
+            },
+            "conditionType": {
+              "id": 5,
+              "description": "New"
+            },
+            "missingPartsType": {
+              "id": 6,
+              "description": "No"
+            },
+            "functionalType": {
+              "id": 1,
+              "description": "Yes"
+            },
+            "damageType": {
+              "id": 7,
+              "description": "None"
+            },
+            "packageType": {
+              "id": 5,
+              "description": "Yes"
+            },
+            "categoryType": {
+              "id": 3,
+              "description": "Home & Garden"
+            },
+            "photos": [
+              {
+                "url": "https://m.media-amazon.com/images/I/71NTxRkhI3L.jpg",
+                "name": "https://m.media-amazon.com/images/I/71NTxRkhI3L.jpg",
+                "path": "https://m.media-amazon.com/images/I/71NTxRkhI3L.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1019616922%2FrBe6ww1mSHlvkD7daFgb4.jpg?alt=media&token=0e917d7e-9fc8-4bd0-8e93-b6c96402db30",
+                "name": "rBe6ww1mSHlvkD7daFgb4.jpg",
+                "fullPath": "processing-photos/1019616922/rBe6ww1mSHlvkD7daFgb4.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1019616922%2Fqp7DsCZjjv43ENCSk-KPd.jpg?alt=media&token=14ecb2a3-d075-43df-9aa3-b07a73879f38",
+                "name": "qp7DsCZjjv43ENCSk-KPd.jpg",
+                "fullPath": "processing-photos/1019616922/qp7DsCZjjv43ENCSk-KPd.jpg"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/nellishr-cbba0.appspot.com/o/processing-photos%2F1019616922%2FPRk5yJ0SMMu0LNkExDGqN.jpg?alt=media&token=34d18cb3-1b76-4cb4-8ff5-56cd00108d69",
+                "name": "PRk5yJ0SMMu0LNkExDGqN.jpg",
+                "fullPath": "processing-photos/1019616922/PRk5yJ0SMMu0LNkExDGqN.jpg"
+              }
+            ],
+            "inventoryNumber": "1019616922",
+            "retailPrice": 149.99,
+            "notes": null,
+            "starRating": 5,
+            "updatedAt": {
+              "__type": "Date",
+              "value": "2023-10-04T17:14:21.000Z"
+            }
+          },
+          "buyNow": {
+            "appointmentId": null,
+            "receiptId": null,
+            "returnId": null,
+            "status": "active"
+          }
+        },
+        "https://www.nellisauction.com/p/CubiCubi-Electric-Standing-Desk-40-x-24-Inches-Height-Adjustable/18534003",
+        "ciceti7528@locawin.com",
+        "65",
+        "2023-10-22T02:53:00.000Z",
+        "3348526200",
+        "77",
+        false
+      ]
+    ],
+    "returns": 3,
+    "returned": [],
+    "running": [],
+    "cookies": "_hp2_id.1530949394=%7B%22userId%22%3A%222810756508116616%22%2C%22pageviewId%22%3A%225733748993567345%22%2C%22sessionId%22%3A%223944933921346293%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D; _gcl_au=1.1.491145975.1697004539.1932268632.1697004558.1697004557; __adroll_fpc=ba2e1ac107ff916d5d20d5c2e3c682c9-1697004539911; __ar_v4=%7CQSXTKNUYXNCWNFQAP2WPHK%3A20231010%3A1%7CXCWDW22TAVFONKHMZRMNJ5%3A20231010%3A1%7CEQNY52S66BH4VH6D3CIXQE%3A20231010%3A1; ap3c=IGUmO_vZ9FE7GvABAGUmO_uMoIAhGE1HtYBy3Va66s0DW1aqTA; _ga_Z14LK6XFVL=GS1.1.1697004539.1.1.1697004559.40.0.0; _ttp=qBvCGHnyd79jctvO5j7lZMZiVV-; _tt_enable_cookie=1; _fbp=fb.1.1697004539456.128575757; __navigation=eyJhdXRoUmVkaXJlY3QiOiIvIn0%3D.%2F%2FDloNKWkzcXKnazbtrGHl0vHeuuY%2FiSIu%2Bz%2FuNkiNM; _rdt_uuid=1697004539367.63b0975c-e10f-4fcd-be43-f32d51305703; _ga=GA1.1.508263035.1697004539; _hp2_ses_props.1530949394=%7B%22ts%22%3A1697004538610%2C%22d%22%3A%22www.nellisauction.com%22%2C%22h%22%3A%22%2Flogin%22%7D; clientside-cookie=9487f7be4a544c6f6bea81e5ce27bb2701066794465faa3e96ea75aebbaceea7207b2e545162265710082cb4dc149266c98d2347f58443fc2bd82f9ddcda3031478963bfb4b6871be64e5149e1d3807eccfd0180e571566326a367d05ed57c2bc9cd47bb9862c7f05f18a0081e2d37d01995fc75b625f966291c9020a6314365c16ecaf1b10c1663fc7250aff476a3683a41b395f7153ffe3a19c4; __session=eyJ1c2VySWQiOjUwMDc4MiwidXNlckF1dGhUb2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNk5UQXdOemd5TENKcFlYUWlPakUyT1Rjd01EUTFOVGNzSW1WNGNDSTZNVFk1T1RVNU5qVTFOMzAuZS1ZVGpiVEt5dkMwb2RacFR6NHNjdEpybXZVWjZIeG5IT0NiMTh0Z1hLSSJ9.FMXzXjS0KRlWLEkHg8uVDKRHFsbGhv6bTAdom13pKyo; ap3pages=1; _gid=GA1.2.535820345.1697004539; _gat=1; __public=e30%3D.GcnILYfJMKY278FQnUClucHACfVuNPNrwhUHVleAYNQ",
+    "phoneNumber": "3348526200",
+    "firstName": "Henry"
+  },
+  {
+    "email": "govajop404@mugadget.com",
+    "password": "Owen2021!!!",
+    "num": 4,
+    "won": [],
+    "returns": 1,
+    "returned": [],
+    "running": [],
+    "cookies": "_hp2_id.1530949394=%7B%22userId%22%3A%227498158520580150%22%2C%22pageviewId%22%3A%221214936300896955%22%2C%22sessionId%22%3A%221896734766345322%22%2C%22identity%22%3A%22501115%22%2C%22trackerVersion%22%3A%224.0%22%2C%22identityField%22%3Anull%2C%22isIdentified%22%3A1%7D; _ga=GA1.1.1172499770.1697050966; _gat=1; __public=eyJ1c2VySWQiOiI1MDExMTUiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1URTFMQ0pwWVhRaU9qRTJPVGN3TlRBNU9UY3NJbVY0Y0NJNk1UWTVPVFkwTWprNU4zMC4yZVFsUml0QVVHU0JjWmxjWmhQRFhBcElBd0dfY2RObEZCS3Y0RXRzQ0FFIn0%3D.TodJpm8269fUp0p8Vk7hIanihXXdZmKAZcAD7pnXsUI; ap3pages=2; __session=eyJ1c2VySWQiOiI1MDExMTUiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1URTFMQ0pwWVhRaU9qRTJPVGN3TlRBNU9UY3NJbVY0Y0NJNk1UWTVPVFkwTWprNU4zMC4yZVFsUml0QVVHU0JjWmxjWmhQRFhBcElBd0dfY2RObEZCS3Y0RXRzQ0FFIn0%3D.TodJpm8269fUp0p8Vk7hIanihXXdZmKAZcAD7pnXsUI; _ga_Z14LK6XFVL=GS1.1.1697050966.1.1.1697051456.1.0.0; _ttp=PP3DpuYHX_H9cjQU54mGpUiWUq3; _tt_enable_cookie=1; _fbp=fb.1.1697050967066.124593027; _rdt_uuid=1697050966774.a6aa4fe5-c909-4bf2-a00f-dbba18684c33; _gid=GA1.2.586334310.1697050966; _gcl_au=1.1.1811970014.1697050966.98208157.1697050996.1697050995; __ar_v4=EQNY52S66BH4VH6D3CIXQE%3A20231010%3A2%7CXCWDW22TAVFONKHMZRMNJ5%3A20231010%3A2%7CQSXTKNUYXNCWNFQAP2WPHK%3A20231010%3A2; ap3c=IGUm8VirMFUicPsAAGUm8VgOe5yjEKgzchZF0-8uOFMqrJ1KLQ; _hp2_ses_props.1530949394=%7B%22ts%22%3A1697050965713%2C%22d%22%3A%22www.nellisauction.com%22%2C%22h%22%3A%22%2Fregistration%2Fsetup%22%7D; __adroll_fpc=14d08e9c2954a4ddb2b6dbdc0544971c-1697050967426; clientside-cookie=eae3f1ca8c2897bd1d01d14bdae6c856ae01d7b8e095a27c8b12d01bfa834e6a268fc762771a84b6c1ba6545facae69f6cdb1231317c8a909180139edffd8342691c5e97df401d228eaafae132347fc49b65df7c5969ddfa9a450cce95f6f21ea956bd02a7d995f12a62d4d3d6517acbbaf86fe9921bf96b31017d7c969b2a2842dca67245b00c53820cf52dca5a95597d7e4049f804ee9ca23975",
+    "phoneNumber": "7438327620",
+    "firstName": "Scarlett"
+  },
+  {
+    "email": "dobiji7559@ibtrades.com",
+    "password": "Owen2021!!!",
+    "num": 5,
+    "won": [],
+    "returns": 0,
+    "returned": [],
+    "running": [],
+    "cookies": "_ga=GA1.1.1622342094.1697051623; _gat=1; _hp2_id.1530949394=%7B%22userId%22%3A%221828048851429322%22%2C%22pageviewId%22%3A%224768332489596127%22%2C%22sessionId%22%3A%222783982670422553%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D; __public=eyJ1c2VySWQiOiI1MDExMjIiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1USXlMQ0pwWVhRaU9qRTJPVGN3TlRFMk5USXNJbVY0Y0NJNk1UWTVPVFkwTXpZMU1uMC51Y25pM3dHeGQwTk16SjZxQW5JcjRNYWsyVXNJc1lrajZUWVhHZDJUWDE4In0%3D.DDrj%2FZVLH9K7WeWvaBWbUbXQqVOFWsX9KvyfhWjpGDc; ap3pages=2; __session=eyJ1c2VySWQiOiI1MDExMjIiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1USXlMQ0pwWVhRaU9qRTJPVGN3TlRFMk5USXNJbVY0Y0NJNk1UWTVPVFkwTXpZMU1uMC51Y25pM3dHeGQwTk16SjZxQW5JcjRNYWsyVXNJc1lrajZUWVhHZDJUWDE4In0%3D.DDrj%2FZVLH9K7WeWvaBWbUbXQqVOFWsX9KvyfhWjpGDc; _ga_Z14LK6XFVL=GS1.1.1697051622.1.1.1697051936.10.0.0; _ttp=qauL8AWHRIFRFOPjPuHV3wxk7_D; _tt_enable_cookie=1; _fbp=fb.1.1697051623446.460187883; _rdt_uuid=1697051623269.5875b6cd-7df6-48c0-a5a4-f94b31cb6f50; _gid=GA1.2.46991192.1697051623; _gcl_au=1.1.1677195819.1697051623.604475886.1697051651.1697051651; __ar_v4=EQNY52S66BH4VH6D3CIXQE%3A20231010%3A2%7CXCWDW22TAVFONKHMZRMNJ5%3A20231010%3A2%7CQSXTKNUYXNCWNFQAP2WPHK%3A20231010%3A2; ap3c=IGUm8-l7is51WGIKAGUm8-npoYgOvBAMPuDCXRMQDu3XalEBaQ; _hp2_ses_props.1530949394=%7B%22ts%22%3A1697051622312%2C%22d%22%3A%22www.nellisauction.com%22%2C%22h%22%3A%22%2Fregistration%2Fsetup%22%7D; __adroll_fpc=57876d771ab0503198dabd23cd51e236-1697051623887; clientside-cookie=2e9d36361e2205361856a8edfc48eaad4b4df85e6feeabe48272271fc89c1681477b0abaaadfb2cd939120cd38db7167cf991b055ff16244ab76e106b4bd213a190c40f75cb086f87aa43e5407573f54e503cf28bc66bbe760b98bb5cea1155ff679dc7918e9da2efe9f4eec17201f71308883eff169e8eb32e2a357c42c722eeaa6e29c46ed08f7aa1a19238c37c9784e9cdd2a89fe20f47095dc",
+    "phoneNumber": "8599006540",
+    "firstName": "Riley"
+  },
+  {
+    "email": "hixar10133@ksyhtc.com",
+    "password": "Owen2021!!!",
+    "num": 6,
+    "won": [],
+    "returns": 0,
+    "returned": [],
+    "running": [],
+    "cookies": "_ga=GA1.1.114759841.1697051979; _gat=1; _hp2_id.1530949394=%7B%22userId%22%3A%223202887966737635%22%2C%22pageviewId%22%3A%226926952586601673%22%2C%22sessionId%22%3A%225971387481418631%22%2C%22identity%22%3A%22501131%22%2C%22trackerVersion%22%3A%224.0%22%2C%22identityField%22%3Anull%2C%22isIdentified%22%3A1%7D; __public=eyJ1c2VySWQiOiI1MDExMzEiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1UTXhMQ0pwWVhRaU9qRTJPVGN3TlRJd01EY3NJbVY0Y0NJNk1UWTVPVFkwTkRBd04zMC5fVThMeHZXREd1bUpIeHhFTzFLZm9DbV8wMGhRU2Q1Q2lrRlFBNG1ST0VBIn0%3D.OY5N196Jyz1%2F0xjC2o%2BXWu%2FrMogV31jjTCd%2Bon50MdE; ap3pages=2; __session=eyJ1c2VySWQiOiI1MDExMzEiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1UTXhMQ0pwWVhRaU9qRTJPVGN3TlRJd01EY3NJbVY0Y0NJNk1UWTVPVFkwTkRBd04zMC5fVThMeHZXREd1bUpIeHhFTzFLZm9DbV8wMGhRU2Q1Q2lrRlFBNG1ST0VBIn0%3D.OY5N196Jyz1%2F0xjC2o%2BXWu%2FrMogV31jjTCd%2Bon50MdE; _ga_Z14LK6XFVL=GS1.1.1697051979.1.1.1697052167.5.0.0; _ttp=cMP8onc9prQOyrAN_n5FqzCj9Op; _tt_enable_cookie=1; _fbp=fb.1.1697051979832.1166370863; _rdt_uuid=1697051979615.565f1c9e-d840-490a-8b66-ee739e7ef050; _gid=GA1.2.1677645718.1697051979; __adroll_fpc=df5c8423bb26e68e872345617087cb1c-1697051980485; clientside-cookie=5a38d52df76494fb3ce996a426c6eaebb882fedd2f429a138f3544e771194cea08923da76ef4a07f54e79a3de38e633019a483418cdd4b9eaf8c4858cdda50edddb55aec63fb4c94c648f976f1b67b13a93e1d8adf0f5527ccf77ca7056db39e637441cad3b5a71134a1a42982068733751a8207f06a6399ed5fbcdc1a17c41082c7c5d35e6c462b3e5e3148f8d727a9827ddc88c969b0a7fa11f1; _gcl_au=1.1.1624860345.1697051979.2099814087.1697052006.1697052005; __ar_v4=EQNY52S66BH4VH6D3CIXQE%3A20231010%3A2%7CXCWDW22TAVFONKHMZRMNJ5%3A20231010%3A2%7CQSXTKNUYXNCWNFQAP2WPHK%3A20231010%3A2; ap3c=IGUm9U0CGnRyKAgDAGUm9U0C_LR5vkRbTnZjadqd25ncvqR7Kg; _hp2_ses_props.1530949394=%7B%22ts%22%3A1697051978273%2C%22d%22%3A%22www.nellisauction.com%22%2C%22h%22%3A%22%2Fregistration%2Fsetup%22%7D",
+    "phoneNumber": "8025420518",
+    "firstName": "Addison"
+  },
+  {
+    "email": "tilem97905@locawin.com",
+    "password": "Owen2021!!!",
+    "num": 7,
+    "won": [],
+    "returns": 0,
+    "returned": [],
+    "running": [],
+    "cookies": "_ga=GA1.1.1815344463.1697053976; _gat=1; _hp2_id.1530949394=%7B%22userId%22%3A%22644067573975882%22%2C%22pageviewId%22%3A%226180650927492393%22%2C%22sessionId%22%3A%223641637553921845%22%2C%22identity%22%3A%22501167%22%2C%22trackerVersion%22%3A%224.0%22%2C%22identityField%22%3Anull%2C%22isIdentified%22%3A1%7D; __public=eyJ1c2VySWQiOiI1MDExNjciLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1UWTNMQ0pwWVhRaU9qRTJPVGN3TlRRd01EQXNJbVY0Y0NJNk1UWTVPVFkwTmpBd01IMC5LSG9EV2VvUWhuOVZCbnVPR1c0M3FHLTlrVzhtOWZZQzNoSklELTA2WVZjIn0%3D.2Pq8sTrqQX92dHDZkcERYkkmAhnMhMgVZ6tFLJnSdpo; ap3pages=2; __session=eyJ1c2VySWQiOiI1MDExNjciLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1UWTNMQ0pwWVhRaU9qRTJPVGN3TlRRd01EQXNJbVY0Y0NJNk1UWTVPVFkwTmpBd01IMC5LSG9EV2VvUWhuOVZCbnVPR1c0M3FHLTlrVzhtOWZZQzNoSklELTA2WVZjIn0%3D.2Pq8sTrqQX92dHDZkcERYkkmAhnMhMgVZ6tFLJnSdpo; _ga_Z14LK6XFVL=GS1.1.1697053975.1.1.1697054249.58.0.0; _ttp=Gs__JFoBZobAT232_1K5J40mck5; _tt_enable_cookie=1; _fbp=fb.1.1697053976378.1770470969; _rdt_uuid=1697053976073.7e490a05-e9a1-4ae4-aa28-1ed80bdd095b; _gid=GA1.2.220723706.1697053976; __adroll_fpc=551a77af5b6a79c1fdb1118de5d1af8c-1697053976870; clientside-cookie=d4c3038f0baed75397868a73c2e8fea2fbeab95fe020c569489471cb24a0bf3806f045f95bd6edec38cb12793629172a302b9ac9aa9c9812554656ef72b3992b7b6fa3cdf708a9667fc3d219f49f42cf6ae6cb3746f70c37eeb3fbf6fef4dfc5723128b5a2aafa25378875e371a188d58daafa4de0f51de7ddb986a8a31180fb831e64cca3fff95c6992b3afe05cd9c9e38c8ab55dd9dfd226450f; _gcl_au=1.1.1662864513.1697053976.691859166.1697054001.1697054000; __ar_v4=EQNY52S66BH4VH6D3CIXQE%3A20231010%3A2%7CXCWDW22TAVFONKHMZRMNJ5%3A20231010%3A2%7CQSXTKNUYXNCWNFQAP2WPHK%3A20231010%3A2; ap3c=IGUm_Rh7is53ilEIAGUm_RjUo0ZZ21N0NElVpawBgxB67bl0Tg; _hp2_ses_props.1530949394=%7B%22ts%22%3A1697053974299%2C%22d%22%3A%22www.nellisauction.com%22%2C%22h%22%3A%22%2Fregistration%2Fsetup%22%7D",
+    "phoneNumber": "6628175144",
+    "firstName": "John"
+  },
+  {
+    "email": "mimak69187@locawin.com",
+    "password": "Owen2021!!!",
+    "num": 8,
+    "won": [],
+    "returns": 0,
+    "returned": [],
+    "running": [],
+    "cookies": "_ga=GA1.1.711689074.1697054364; _gat=1; _hp2_id.1530949394=%7B%22userId%22%3A%22835870799419401%22%2C%22pageviewId%22%3A%222343651389902107%22%2C%22sessionId%22%3A%221653048602599029%22%2C%22identity%22%3A%22501175%22%2C%22trackerVersion%22%3A%224.0%22%2C%22identityField%22%3Anull%2C%22isIdentified%22%3A1%7D; __public=eyJ1c2VySWQiOiI1MDExNzUiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1UYzFMQ0pwWVhRaU9qRTJPVGN3TlRRek9UTXNJbVY0Y0NJNk1UWTVPVFkwTmpNNU0zMC5GUFF5WmZhQk9pRUVZNU84YjZFRHd0ZVAycWgtMG5kbEhaOWNOMWhFanljIn0%3D.MgNAaO%2B8Dx372Yj%2FhoVy2UjLULIZaj1O4iqkOw%2FArGU; ap3pages=2; __session=eyJ1c2VySWQiOiI1MDExNzUiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1UYzFMQ0pwWVhRaU9qRTJPVGN3TlRRek9UTXNJbVY0Y0NJNk1UWTVPVFkwTmpNNU0zMC5GUFF5WmZhQk9pRUVZNU84YjZFRHd0ZVAycWgtMG5kbEhaOWNOMWhFanljIn0%3D.MgNAaO%2B8Dx372Yj%2FhoVy2UjLULIZaj1O4iqkOw%2FArGU; _ga_Z14LK6XFVL=GS1.1.1697054364.1.1.1697054536.18.0.0; _ttp=8CP3CNH-Va76fUr7cyZrhG_pZf_; _tt_enable_cookie=1; _fbp=fb.1.1697054364776.1085424102; _rdt_uuid=1697054364625.33e28653-6f9f-4deb-8834-b7dca910ef8e; _gid=GA1.2.807581784.1697054364; _gcl_au=1.1.974528945.1697054364.1755451900.1697054393.1697054392; __ar_v4=EQNY52S66BH4VH6D3CIXQE%3A20231010%3A2%7CXCWDW22TAVFONKHMZRMNJ5%3A20231010%3A2%7CQSXTKNUYXNCWNFQAP2WPHK%3A20231010%3A2; ap3c=IGUm_px7is534zgBAGUm_py6C2cMQfz7dc7oKI0egD4NZTDxLA; _hp2_ses_props.1530949394=%7B%22ts%22%3A1697054363418%2C%22d%22%3A%22www.nellisauction.com%22%2C%22h%22%3A%22%2Fregistration%2Fsetup%22%7D; __adroll_fpc=1440af228244c6717359d9bf61d20c70-1697054365090; clientside-cookie=46a3f4078354c0ad9d2696f62eaf94c2c7dde118510ff900fad918819635c38c98bede7ba94f4a63858e7896960e4887e9b31994ee0414760f1c4101025d5afdbda67d32001de53de1684b8c9f4d4ea65c55dc6a38799d523a5b2612fba5045a83da263048a780682824d62787359068f15d9a06af45449137b7f0b34a22ab667e2023288c24a1cea6305c0188f0a8540bd4e831ae162dc1191bad",
+    "phoneNumber": "8304537548",
+    "firstName": "Sofia"
+  },
+  {
+    "email": "pivolih814@locawin.com",
+    "password": "Owen2021!!!",
+    "num": 9,
+    "won": [],
+    "returns": 0,
+    "returned": [],
+    "running": [],
+    "cookies": "_ga=GA1.1.1755501225.1697056626; _gat=1; _hp2_id.1530949394=%7B%22userId%22%3A%228589887355870711%22%2C%22pageviewId%22%3A%225909919549544760%22%2C%22sessionId%22%3A%225676858582450095%22%2C%22identity%22%3A%22501225%22%2C%22trackerVersion%22%3A%224.0%22%2C%22identityField%22%3Anull%2C%22isIdentified%22%3A1%7D; __public=eyJ1c2VySWQiOiI1MDEyMjUiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1qSTFMQ0pwWVhRaU9qRTJPVGN3TlRZMk5UUXNJbVY0Y0NJNk1UWTVPVFkwT0RZMU5IMC5MLXBaRHFyZUdfb3hfLU5vMDE3QnEzVTNqclctR1dNeEZzOUdKdFFXaDhrIn0%3D.qZQpmwH8fMbIwSvP%2BHkwujlnIzTv2wd0K5Mpv5%2FWQ%2FA; ap3pages=2; __session=eyJ1c2VySWQiOiI1MDEyMjUiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1qSTFMQ0pwWVhRaU9qRTJPVGN3TlRZMk5UUXNJbVY0Y0NJNk1UWTVPVFkwT0RZMU5IMC5MLXBaRHFyZUdfb3hfLU5vMDE3QnEzVTNqclctR1dNeEZzOUdKdFFXaDhrIn0%3D.qZQpmwH8fMbIwSvP%2BHkwujlnIzTv2wd0K5Mpv5%2FWQ%2FA; _fbp=fb.1.1697056627104.1510996296; _ga_Z14LK6XFVL=GS1.1.1697056626.1.1.1697056782.25.0.0; _ttp=tHPdc39Htwz57bqmLTZk5hciYt6; _tt_enable_cookie=1; _rdt_uuid=1697056626632.cf22f09a-7003-490d-9300-a897f298ee55; _gid=GA1.2.1668729790.1697056626; _gcl_au=1.1.1991332410.1697056626.1293654343.1697056655.1697056654; __ar_v4=EQNY52S66BH4VH6D3CIXQE%3A20231010%3A2%7CXCWDW22TAVFONKHMZRMNJ5%3A20231010%3A2%7CQSXTKNUYXNCWNFQAP2WPHK%3A20231010%3A2; ap3c=IGUnB3OUQOsD7eQJAGUnB3Nis1J5ZlVlmahfE5M1x0u7y992wg; _hp2_ses_props.1530949394=%7B%22ts%22%3A1697056625597%2C%22d%22%3A%22www.nellisauction.com%22%2C%22h%22%3A%22%2Fregistration%2Fsetup%22%7D; __adroll_fpc=12001966bd8a1fbf462c730455acd622-1697056627460; clientside-cookie=beb0b00cf929e073bc6fd08e66a324cb2cf4baab6d52837a877827599d9fdd195a28e9819b277d2a9a511e8581cb6b751bf6bf5010c017c1a39d9f60d379556313b561b0eea2d6ba7e9a7c7c2f5a90ea42144878988d7856b9210a62c2c773d629114dea800a38d83842c1f7cd3bc89169d9740b02814d6e5c8703dac9bce5378a34ed3fa1388388a40b3a1bbee6dfe20bdaf7cc092c9b96c3bd",
+    "phoneNumber": "4139665599",
+    "firstName": "Eli"
+  },
+  {
+    "email": "divebok605@ksyhtc.com",
+    "password": "Owen2021!!!",
+    "num": 10,
+    "won": [],
+    "returns": 0,
+    "returned": [],
+    "running": [],
+    "cookies": "_hp2_id.1530949394=%7B%22userId%22%3A%224924368247936214%22%2C%22pageviewId%22%3A%222077324096355551%22%2C%22sessionId%22%3A%224911963886699960%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D; _gcl_au=1.1.430170879.1697059390.647579998.1697059411.1697059410; __adroll_fpc=82c267799b45ccfec2e20a4adef73c4d-1697059390935; _fbp=fb.1.1697059390703.1045389383; __ar_v4=%7CQSXTKNUYXNCWNFQAP2WPHK%3A20231010%3A1%7CXCWDW22TAVFONKHMZRMNJ5%3A20231010%3A1%7CEQNY52S66BH4VH6D3CIXQE%3A20231010%3A1; ap3c=IGUnEj6rMFUqgZ8FAGUnEj62--1NapzRVJ8tE6eM8iAWystTEA; _ga_Z14LK6XFVL=GS1.1.1697059390.1.1.1697059412.38.0.0; _ttp=wdQbFvdUqGdwGGKhGRdTqAjxNeB; _tt_enable_cookie=1; _ga=GA1.1.1864384940.1697059389; __navigation=eyJhdXRoUmVkaXJlY3QiOiIvIn0%3D.%2F%2FDloNKWkzcXKnazbtrGHl0vHeuuY%2FiSIu%2Bz%2FuNkiNM; _rdt_uuid=1697059389934.d8fa8a07-cb44-458b-98a0-d1e78a920fb6; __session=eyJ1c2VySWQiOjUwMTIzMSwidXNlckF1dGhUb2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNk5UQXhNak14TENKcFlYUWlPakUyT1Rjd05UazBNVEFzSW1WNGNDSTZNVFk1T1RZMU1UUXhNSDAuUFBNODRHQVMyR0cwN1FhRHBFQ0tUWWg3TlFJQWdxSVdLM05JeHA3cWYycyJ9.ITtlrbMUOBTTjI9SZ8E9Pz8bJKSZCdOET1L%2BZlfu9WM; ap3pages=1; _gid=GA1.2.1232874742.1697059389; _hp2_ses_props.1530949394=%7B%22ts%22%3A1697059388601%2C%22d%22%3A%22www.nellisauction.com%22%2C%22h%22%3A%22%2Flogin%22%7D; clientside-cookie=87b4b9eabaac338911ebf7ae8eb6e3f5d7b330ae6062244870c1d2905a10aab2081bdc4d213afba546e3399e32cea7349bf520f0e9f0ec58247935dd25664b5f670b31447f703f75072059887622b0632930d645b50bbc23d63ac7871249691f43d1f6b8f37989672b768515742fb72db5d70cec27e9bdac8ae986b36db2343ac019fc2d60c7fc9a155158083a920af3c39970fcdcb4795ef3a0d9; _gat=1; __public=e30%3D.GcnILYfJMKY278FQnUClucHACfVuNPNrwhUHVleAYNQ",
+    "phoneNumber": "8304537251",
+    "firstName": "Oliver"
+  },
+  {
+    "email": "riyeg64216@ibtrades.com",
+    "password": "Owen2021!!!",
+    "num": 11,
+    "won": [],
+    "returns": 0,
+    "returned": [],
+    "running": [],
+    "cookies": "_hp2_id.1530949394=%7B%22userId%22%3A%224150581320237255%22%2C%22pageviewId%22%3A%224145472844980914%22%2C%22sessionId%22%3A%226891133553457999%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D; _gcl_au=1.1.1342439094.1697059418.1605675022.1697059437.1697059437; __adroll_fpc=a7ac0b2a395d2fa999e0fcfa8e17760d-1697059419367; __ar_v4=%7CQSXTKNUYXNCWNFQAP2WPHK%3A20231010%3A1%7CXCWDW22TAVFONKHMZRMNJ5%3A20231010%3A1%7CEQNY52S66BH4VH6D3CIXQE%3A20231010%3A1; ap3c=IGUnElvZ9FFpaH4AAGUnElueS1xslXWd7hlz0RaGhoEP3SxeHg; _ga_Z14LK6XFVL=GS1.1.1697059418.1.1.1697059439.39.0.0; _ttp=6rhm5y452fOYAwZgMrccodledqV; _tt_enable_cookie=1; _fbp=fb.1.1697059418932.2125073165; __navigation=eyJhdXRoUmVkaXJlY3QiOiIvIn0%3D.%2F%2FDloNKWkzcXKnazbtrGHl0vHeuuY%2FiSIu%2Bz%2FuNkiNM; _rdt_uuid=1697059418892.d72143cf-1cd4-4e18-9333-d67a2e18861e; _ga=GA1.1.1737142972.1697059418; _hp2_ses_props.1530949394=%7B%22ts%22%3A1697059417923%2C%22d%22%3A%22www.nellisauction.com%22%2C%22h%22%3A%22%2Flogin%22%7D; __session=eyJ1c2VySWQiOjUwMTI0NSwidXNlckF1dGhUb2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNk5UQXhNalExTENKcFlYUWlPakUyT1Rjd05UazBNemNzSW1WNGNDSTZNVFk1T1RZMU1UUXpOMzAuR2RCM0MxbElSYS1PQkh1UWdPSEhRV2VydEVtdG1rRmpaa25yTkFKVWxEYyJ9.B340B95ZVDanrpI067KDW9e%2BlCZ%2F1lHkFv2me1mDOm0; ap3pages=1; _gid=GA1.2.313920236.1697059418; clientside-cookie=9c8d0cf6238d30819e27e01f758a7285acdf6ac45f44931cfba107402edd6d191e9031985fd82f62b8c192ea915192d200273003f45a6170705b40a50b5ed1f7400a27dae2739e3345572f346acfa0d5b59c89ea1b2743212b789dbd113b0e55a0f578bd82bcfbd2b34095f18663cdedb4bf52876d495c897754a74439b9b17a27a324b00d822ca77c4b9d7c3b7d39fd127c6f77b8084d32c43713; _gat=1; __public=e30%3D.GcnILYfJMKY278FQnUClucHACfVuNPNrwhUHVleAYNQ",
+    "phoneNumber": "6183734550",
+    "firstName": "Michael"
+  },
+  {
+    "email": "cetokep958@locawin.com",
+    "password": "Owen2021!!!",
+    "num": 12,
+    "won": [],
+    "returns": 0,
+    "returned": [],
+    "running": [],
+    "cookies": "_ga=GA1.1.1769663435.1697057990; _gat=1; _hp2_id.1530949394=%7B%22userId%22%3A%223928341674384754%22%2C%22pageviewId%22%3A%227001079477428999%22%2C%22sessionId%22%3A%221231090055320512%22%2C%22identity%22%3A%22501260%22%2C%22trackerVersion%22%3A%224.0%22%2C%22identityField%22%3Anull%2C%22isIdentified%22%3A1%7D; __public=eyJ1c2VySWQiOiI1MDEyNjAiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1qWXdMQ0pwWVhRaU9qRTJPVGN3TlRnd01UVXNJbVY0Y0NJNk1UWTVPVFkxTURBeE5YMC5zd0pLbTNaYnljd1p0dDJmOXgxM1k5OEJfcFBLOHhRVkhwTzJNOUNxd3ZvIn0%3D.S4HOdb2PNkQcb2yOUtqPRzYakvi5V1ejonUp0%2BLUkTg; ap3pages=2; __session=eyJ1c2VySWQiOiI1MDEyNjAiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1qWXdMQ0pwWVhRaU9qRTJPVGN3TlRnd01UVXNJbVY0Y0NJNk1UWTVPVFkxTURBeE5YMC5zd0pLbTNaYnljd1p0dDJmOXgxM1k5OEJfcFBLOHhRVkhwTzJNOUNxd3ZvIn0%3D.S4HOdb2PNkQcb2yOUtqPRzYakvi5V1ejonUp0%2BLUkTg; _fbp=fb.1.1697057990802.1514177505; _ga_Z14LK6XFVL=GS1.1.1697057990.1.1.1697058179.57.0.0; _ttp=VA7UWSuxtvLKKfs20Dh8GFe2LjJ; _tt_enable_cookie=1; _rdt_uuid=1697057990392.5103e1a5-2f04-4226-a822-41aaca9206e5; _gid=GA1.2.1533114767.1697057990; _gcl_au=1.1.1454639479.1697057990.1084519690.1697058016.1697058015; __ar_v4=EQNY52S66BH4VH6D3CIXQE%3A20231010%3A2%7CXCWDW22TAVFONKHMZRMNJ5%3A20231010%3A2%7CQSXTKNUYXNCWNFQAP2WPHK%3A20231010%3A2; ap3c=IGUnDMarMFUpDosKAGUnDMYMZbVuEXEeXwx29R1pCGDV5U6lww; _hp2_ses_props.1530949394=%7B%22ts%22%3A1697057989493%2C%22d%22%3A%22www.nellisauction.com%22%2C%22h%22%3A%22%2Fregistration%2Fsetup%22%7D; __adroll_fpc=98412814541eb1d92b02fd97c6d3c047-1697057991004; clientside-cookie=8b3184c1518c44c7c81ccfa3d25c7ffac83d902353c163f772748402f973802bb18fd2598a33e56f36013c4bc38d2e0476e9642d06c7df53ea109569dd2ea8c8bd0d456ebdcf7289c29f323c2eb407d363a68aa4d519936ecb4090a6855a54ebfb85158c614ec863f6c51230b835941d3e48505f2d8633166f042bef4c45a3ae69c3fb7f78c05b7de6966e10c43a5eecdf72a71132c2f697308606",
+    "phoneNumber": "3864770866",
+    "firstName": "Ella"
+  },
+  {
+    "email": "sotofe1927@mugadget.com",
+    "password": "Owen2021!!!",
+    "num": 13,
+    "won": [],
+    "returns": 0,
+    "returned": [],
+    "running": [],
+    "cookies": "_ga=GA1.1.1760030112.1697058274; _gat=1; _hp2_id.1530949394=%7B%22userId%22%3A%225435751220993832%22%2C%22pageviewId%22%3A%228733711783111753%22%2C%22sessionId%22%3A%224436033019860997%22%2C%22identity%22%3A%22501270%22%2C%22trackerVersion%22%3A%224.0%22%2C%22identityField%22%3Anull%2C%22isIdentified%22%3A1%7D; __public=eyJ1c2VySWQiOiI1MDEyNzAiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1qY3dMQ0pwWVhRaU9qRTJPVGN3TlRnek1ERXNJbVY0Y0NJNk1UWTVPVFkxTURNd01YMC5yZU1BUWhoVnV6MVlSRWNZWDhKSlZmZjZCRV9KclBjZzhVRTVhUGZrd2VZIn0%3D.uqgwm0Vw9t%2FMGWiKmkAUTmJnuTlq87acEEz62q1yR%2FU; ap3pages=2; __session=eyJ1c2VySWQiOiI1MDEyNzAiLCJ1c2VyQXV0aFRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2TlRBeE1qY3dMQ0pwWVhRaU9qRTJPVGN3TlRnek1ERXNJbVY0Y0NJNk1UWTVPVFkxTURNd01YMC5yZU1BUWhoVnV6MVlSRWNZWDhKSlZmZjZCRV9KclBjZzhVRTVhUGZrd2VZIn0%3D.uqgwm0Vw9t%2FMGWiKmkAUTmJnuTlq87acEEz62q1yR%2FU; _ga_Z14LK6XFVL=GS1.1.1697058274.1.1.1697058410.58.0.0; _ttp=qB9T_aYeTtVjDqQEwN30jZ6ja0o; _tt_enable_cookie=1; _fbp=fb.1.1697058274563.1009652552; _rdt_uuid=1697058274369.60675794-d9f5-4211-93b1-fdbecefaab5f; _gid=GA1.2.1743631013.1697058274; _gcl_au=1.1.1614970774.1697058274.1997697231.1697058302.1697058301; __ar_v4=EQNY52S66BH4VH6D3CIXQE%3A20231010%3A2%7CXCWDW22TAVFONKHMZRMNJ5%3A20231010%3A2%7CQSXTKNUYXNCWNFQAP2WPHK%3A20231010%3A2; ap3c=IGUnDeICGnR4Py0CAGUnDeKcwuEy3Ifn25eTLKg5olNyulI6Nw; _hp2_ses_props.1530949394=%7B%22ts%22%3A1697058273354%2C%22d%22%3A%22www.nellisauction.com%22%2C%22h%22%3A%22%2Fregistration%2Fsetup%22%7D; __adroll_fpc=a5c5b3b1426bacaa7a8aa82c77b04671-1697058275014; clientside-cookie=6fccdc508f7944955174eb3e95afd11ffa5844f3c08a7ed88ebea1fea2c4ec16b1d17229f0c668ebde0d02bc2f07b14f20b5854b11cd856ae1a380905cc7ed518e5a4e20fca40f63acca6793412161eb005150ff97c773a3106fc071abc579fdad486bd3b0c93d02645c7ef31038f10f385c2666a9d584f32605dd11013a7204cd6a4c80a28ecbf254ca78d895025404f2bafa53c425582072318a",
+    "phoneNumber": "7318794610",
+    "firstName": "Theodore"
+  }
+]
